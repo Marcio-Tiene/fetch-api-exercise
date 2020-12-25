@@ -3,7 +3,9 @@
 This project was developed as an exercise in the digital innovation one bootcamp react web developer.
 The goal was to make a request with the fetch api and display the data of the cryptocurrencies on an html page.
 
-## Necessary tools
+## Project setup
+
+Clone this repository then follow the instructions above to use the Coin Market Cap API and to run the project
 
 ### Coin Market Cap API
 
